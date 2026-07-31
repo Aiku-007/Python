@@ -1,0 +1,3 @@
+Today I learned Python.
+I solved 10 function problems.
+Tomorrow I will learn File Handling.
