@@ -6,4 +6,4 @@ print(aiko_new)
 
 aiko_replace=aiko.replace("Aiko","Aalu")
 
-print(aiko_replace)
+print(aiko_replace)  
