@@ -1,5 +1,5 @@
-log = "ERROR:server1:connection_failed"
+log = "INFO:server1:database:connection:success"
 
-parts = log.split(":")
+result = log.split(":", 2)
 
-print(parts)
+print(result)
