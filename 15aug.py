@@ -4,7 +4,7 @@ print(words)
 
 some=['hell','word','pyramid']
 txt=" ".join(some)
-print(next)
+print(txt)
 
 servers=["web01","web02","web03"]
 
