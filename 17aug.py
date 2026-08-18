@@ -7,3 +7,8 @@ filename_2 = "database_backup.sql"
 
 if filename_2.endswith(".sql"):
     print("This is a sql file")
+
+log = "ERROR: Database connection failed"
+print(log.startswith("ERROR"))
+
+print(log.startswith("INFO"))
