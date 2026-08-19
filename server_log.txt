@@ -1,0 +1,6 @@
+
+User: Amarjot
+CPU Usage: 75
+Memory Usage: 60
+Server Status: healthy
+Log updated successfully.
