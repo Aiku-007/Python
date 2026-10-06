@@ -13,3 +13,13 @@ print(len(servers))
 
 servers.append("web04")
 print(servers)
+servers.insert(5,"web05")
+print(servers)
+
+aiko=["web","web1","web2"]
+new_aiko=["web3","web4"]
+aiko.extend(new_aiko)
+print(aiko)
+
+aiko.remove("web")
+print(aiko)
