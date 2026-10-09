@@ -1,0 +1,1 @@
+print("It has been more than a month and I am trying to be consistent every single day and  I had a DBMS exam today too. ")
